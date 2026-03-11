@@ -80,7 +80,7 @@ The output will be generated in the `dist/` folder.
 This is a frontend demonstration dashboard. For production use, ensure integration with a secure backend API and implement proper authentication/authorization flows.
 
 ---
-Built with ❤️ by augustdev290
+Built with ❤️ by leonard
 
 ## 🎉 Credits
 
