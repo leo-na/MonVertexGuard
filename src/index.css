@@ -3,7 +3,7 @@
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   
-  /* Default Dark Theme */
+
   --color-bg-dark: var(--bg-color, #0B0C10);
   --color-card-dark: var(--card-color, #15161D);
   --color-accent-purple: var(--accent-color, #9D4EDD);
